@@ -5,31 +5,84 @@
   "phone": "📱 +62 0855 9154 1906",
   "quick_links": "Tautan Cepat",
   "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved",
+  "nav": { "features": "Fitur", "process": "Proses", "why": "Mengapa Kami", "faq": "FAQ" },
+  "ui": { "language": "Bahasa", "languageOptions": { "id": "Bahasa Indonesia", "zh": "中文", "en": "English" }, "step": "Langkah" },
+  "alerts": { "apply": "🚀 Dialihkan ke halaman pengajuan via sosial (demo)", "guide": "🎯 Memulai alur panduan onboarding (demo)" },
+  "contact": { "email": "bisnis@qrhub.one", "phone": "+62 0855 9154 1906" },
+  "hero": {
+    "title": "Satu Pintu, Integrasi Terpadu",
+    "subtitle": "Melalui portal online dan alur panduan otomatis, kami membantu menyelesaikan integrasi standar dengan proses yang jelas dan transparan.",
+    "btnApply": "Ajukan via Sosial",
+    "btnGuide": "Mulai Panduan",
+    "imageAlt": "Ilustrasi proses integrasi QRHub"
+  },
+  "stats": { "boost": "30%+", "label1": "Peningkatan Konversi", "coverage": "100%", "label2": "Cakupan QRIS", "steps": "3 Langkah", "label3": "Integrasi Cepat" },
+  "section2": {
+    "badge": "Apa yang Kami Tawarkan",
+    "title": "Satu Integrasi, Cakupan Lengkap",
+    "desc": "QRHub memberikan satu integrasi yang memenuhi 95% kebutuhan transaksi online harian Anda",
+    "card1": { "title": "Pengajuan via Sosial", "desc": "Mulai sekali klik dengan akun sosial populer", "features": ["Login sekali klik", "Dukungan multi-platform", "Tanpa verifikasi ulang"] },
+    "card2": { "title": "Panduan Online Otomatis", "desc": "Isi sekali, sistem berjalan otomatis", "features": ["Panduan formulir pintar", "Pelacakan progres real-time", "Pembaruan status otomatis"] },
+    "card3": { "title": "Dukungan API Standar", "desc": "(Opsional) Untuk integrasi sistem mendalam saat diperlukan", "features": ["RESTful API", "Dokumentasi developer lengkap", "Lingkungan sandbox"] }
+  },
+  "section3": {
+    "progress": "Progres Integrasi",
+    "title": "Alur Integrasi",
+    "subtitle": "Tiga langkah sederhana untuk menyelesaikan integrasi QRIS dengan cepat—otomatis dan transparan.",
+    "realTime": "Pembaruan real-time",
+    "estTime": "Estimasi selesai",
+    "only3Steps": "Hanya 3 langkah",
+    "step1": { "title": "Ajukan via Portal Sosial", "desc": "Mulai pengajuan dengan cepat menggunakan akun sosial Anda" },
+    "step2": { "title": "Lengkapi Data Dasar Online", "desc": "Isi informasi yang diperlukan sekali; sistem memvalidasi otomatis" },
+    "step3": { "title": "Proses Otomatis & Pantau Real Time", "desc": "Institusi berlisensi menangani peninjauan dan aktivasi; proses otomatis dan efisien" }
+  },
+  "why": {
+    "badge": "Mengapa Memilih Kami",
+    "title": "Sederhana. Pintar. Efisien.",
+    "desc": "Solusi kami memberikan pengalaman integrasi termudah bagi bisnis Anda",
+    "card1": "Satu pintu, ajukan sekali klik",
+    "card2": "Panduan bertahap, mudah digunakan",
+    "card3": "Progres otomatis, minim bolak-balik",
+    "card4": "API opsional, fleksibel",
+    "dashboard": { "title": "Panel Kontrol", "stat1": "PCI DSS", "stat2": "24/7", "volume": "Volume transaksi" }
+  },
+  "faq": { "title": "Pertanyaan yang Sering Diajukan", "subtitle": "Jika Anda punya pertanyaan lain, silakan hubungi tim dukungan kami", "contact": "Hubungi Kami" },
+  "faqItems": [
+    { "q": "Apakah ini platform pembayaran?", "a": "Tidak. Kami hanya menyediakan dukungan integrasi teknis dan layanan panduan online." },
+    { "q": "Siapa yang memproses transaksi aktual?", "a": "Transaksi dijalankan oleh channel layanan pembayaran yang berlisensi dan memiliki izin regulator." },
+    { "q": "Bisa digunakan tanpa pengetahuan teknis?", "a": "Tidak perlu pengetahuan teknis — sistem akan memandu Anda secara otomatis." },
+    { "q": "Harus pakai API?", "a": "Tidak perlu. API bersifat opsional dan hanya diperlukan jika Anda ingin integrasi mendalam ke sistem Anda sendiri." }
+  ],
+  "tagline": "Platform Integrasi Teknologi QRIS Satu Pintu",
+  "complianceTitle": "Pernyataan Kepatuhan",
+  "compliance": "Kami menyediakan layanan integrasi teknis dan dukungan proses, termasuk portal online, panduan otomatis, dan dukungan API. Layanan terkait disediakan oleh institusi berlisensi dan mematuhi peraturan setempat.",
+  "footer": { "privacy": "Kebijakan Privasi", "terms": "Syarat dan Ketentuan", "contact": "Hubungi Kami", "quickLinks": "Tautan Cepat", "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • Hak Cipta Dilindungi" },
   "privacy": {
     "title": "Kebijakan Privasi",
     "lastUpdated": "Terakhir Diperbarui: 16 April 2026",
     "sections": [
-      { "id": 1, "title": "1. Data yang Kami Kumpulkan", "content": "Kami mengumpulkan informasi yang Anda berikan saat pendaftaran, serta metadata teknis transaksi untuk pemantauan sistem." },
-      { "id": 2, "title": "2. Penggunaan Informasi", "content": "Informasi Anda digunakan untuk: menyediakan layanan infrastruktur teknologi API, membantu pembukaan akun merchant di PJP berlisensi, serta analisis keamanan dan pencegahan penipuan." },
-      { "id": 3, "title": "3. Berbagi Data dengan Pihak Ketiga", "content": "Untuk menjalankan layanan QRIS, kami akan membagikan data pendaftaran Anda dengan PJP berlisensi. Jika diwajibkan hukum, kami juga dapat memberikan informasi kepada regulator Indonesia (seperti Kominfo atau Bank Indonesia)." },
-      { "id": 4, "title": "4. Keamanan Data", "content": "PT BINTANG LAUT INTEGRASI menggunakan teknologi enkripsi SSL untuk melindungi transmisi data antara sistem Anda dan platform kami." },
-      { "id": 5, "title": "5. Hak-Hak Anda", "content": "Berdasarkan UU Pelindungan Data Pribadi (UU PDP) Indonesia, Anda berhak mengakses, memperbarui, atau meminta penghapusan data pribadi Anda." },
-      { "id": 6, "title": "6. Informasi Kontak", "content": "Jika ada pertanyaan, silakan hubungi kami melalui:", 
-        "email": "Email: bisnis@qrhub.one", 
-        "phone": "Telepon: +62 85591541906", 
-        "address": "Alamat: Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460" 
-      }
+      { "id": 0, "title": "Pendahuluan", "content": "Platform ini (QRHub) menghargai perlindungan informasi pengguna dan mematuhi hukum serta peraturan perlindungan data yang berlaku." },
+      { "id": 1, "title": "1. Informasi yang Kami Kumpulkan", "content": "Kami dapat mengumpulkan informasi berikut:\n\n• Informasi dasar (seperti nama dan detail kontak)\n• Informasi bisnis (seperti nama merchant dan informasi usaha)\n• Informasi penggunaan (seperti catatan akses dan aktivitas penggunaan)" },
+      { "id": 2, "title": "2. Cara Kami Menggunakan Informasi", "content": "Informasi yang kami kumpulkan hanya digunakan untuk:\n\n• Menyediakan layanan integrasi dan panduan proses\n• Meningkatkan pengalaman sistem\n• Dukungan pengguna dan penanganan masalah" },
+      { "id": 3, "title": "3. Berbagi Informasi", "content": "Kami tidak menjual informasi pengguna.\n\nInformasi dapat diberikan kepada pihak ketiga dalam kondisi berikut:\n\n• Institusi mitra yang diperlukan untuk menyelesaikan proses integrasi\n• Sesuai ketentuan hukum dan peraturan" },
+      { "id": 4, "title": "4. Keamanan Data", "content": "Kami mengambil langkah yang wajar untuk melindungi keamanan informasi dan mencegah akses atau kebocoran tanpa izin." },
+      { "id": 5, "title": "5. Hak Pengguna", "content": "Pengguna dapat setiap saat:\n\n• Memeriksa atau memperbarui informasi\n• Meminta penghapusan data" },
+      { "id": 6, "title": "6. Sifat Layanan", "content": "Platform ini hanya menyediakan layanan integrasi teknis dan dukungan proses, dan tidak melibatkan pemrosesan dana maupun layanan eksekusi apa pun." },
+      { "id": 7, "title": "7. Pembaruan Kebijakan", "content": "Kami dapat memperbarui kebijakan ini dan memublikasikan versi terbaru di halaman ini." },
+      { "id": 8, "title": "8. Kontak", "content": "Jika ada pertanyaan, silakan hubungi kami:", "details": { "email": "Email: bisnis@qrhub.one", "phone": "Telepon: +62 85591541906", "address": "Alamat: Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460" } }
     ]
   },
   "terms": {
     "title": "Syarat dan Ketentuan",
     "lastUpdated": "Terakhir Diperbarui: 16 April 2026",
     "sections": [
-      { "id": 1, "title": "1. Pendahuluan", "content": "Selamat datang di QRHub. Platform ini dioperasikan oleh PT BINTANG LAUT INTEGRASI. Dengan mengakses atau menggunakan layanan kami, Anda setuju untuk terikat oleh ketentuan ini." },
-      { "id": 2, "title": "2. Definisi Layanan", "content": "QRHub adalah penyedia layanan infrastruktur teknologi (SaaS). Kami menyediakan integrasi API, dashboard pemantauan data, dan sistem manajemen merchant yang dirancang untuk menyederhanakan proses onboarding QRIS. Harap dicatat bahwa QRHub BUKANlah Penyelenggara Jasa Pembayaran (PJP)." },
-      { "id": 3, "title": "3. Batasan Tanggung Jawab", "content": "Semua transaksi keuangan dan penyelesaian dana sepenuhnya dikelola oleh mitra PJP kami yang memegang lisensi resmi dari Bank Indonesia. PT BINTANG LAUT INTEGRASI tidak bertanggung jawab atas kegagalan transaksi yang disebabkan oleh kerusakan sistem perbankan atau kebijakan PJP." },
-      { "id": 4, "title": "4. Kewajiban Pengguna", "content": "Pengguna harus memberikan data bisnis yang autentik untuk peninjauan kepatuhan (KYB) oleh PJP. Pengguna bertanggung jawab penuh atas keamanan API Key di bawah akun mereka." },
-      { "id": 5, "title": "5. Hukum yang Mengatur", "content": "Ketentuan ini diatur oleh hukum Republik Indonesia. Setiap perselisihan akan diajukan ke Pengadilan Negeri Bogor untuk diputuskan." }
+      { "id": 0, "title": "Pendahuluan", "content": "Dengan menggunakan platform ini, Anda menyetujui ketentuan berikut." },
+      { "id": 1, "title": "1. Ruang Lingkup Layanan", "content": "Platform ini menyediakan layanan integrasi teknis dan dukungan proses untuk membantu pengguna menyelesaikan proses integrasi." },
+      { "id": 2, "title": "2. Tanggung Jawab Pengguna", "content": "Pengguna wajib memastikan:\n\n• Informasi yang diberikan benar dan akurat\n• Mematuhi hukum dan peraturan setempat" },
+      { "id": 3, "title": "3. Layanan Pihak Ketiga", "content": "Sebagian fitur melibatkan layanan yang disediakan oleh institusi pihak ketiga.\n\nLayanan terkait menjadi tanggung jawab institusi tersebut, dan platform ini tidak turut serta dalam pelaksanaannya." },
+      { "id": 4, "title": "4. Batasan Tanggung Jawab (Penting)", "content": "Platform ini tidak bertanggung jawab atas hal-hal berikut:\n\n• Tindakan layanan pihak ketiga\n• Kesalahan operasi atau informasi dari pengguna\n• Masalah di luar kendali platform" },
+      { "id": 5, "title": "5. Perubahan Layanan", "content": "Kami berhak menyesuaikan atau memperbarui konten layanan." },
+      { "id": 6, "title": "6. Sifat Layanan", "content": "Platform ini hanya menyediakan dukungan teknis dan layanan proses, serta tidak menyediakan pemrosesan dana atau layanan terkait." }
     ]
   }
 }

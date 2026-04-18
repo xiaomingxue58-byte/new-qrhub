@@ -5,43 +5,110 @@
   "phone": "📱 +62 0855 9154 1906",
   "quick_links": "Quick Links",
   "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved",
+  "nav": { "features": "Features", "process": "Process", "why": "Why Us", "faq": "FAQ" },
+  "ui": { "language": "Language", "languageOptions": { "id": "Bahasa Indonesia", "zh": "中文", "en": "English" }, "step": "Step" },
+  "alerts": { "apply": "🚀 Redirected to social entry application page (demo)", "guide": "🎯 Started the guided onboarding flow (demo)" },
+  "contact": { "email": "bisnis@qrhub.one", "phone": "+62 0855 9154 1906" },
+  "hero": {
+    "title": "One Entry, Unified Integration",
+    "subtitle": "Through an online entry point and an automated guided flow, we help you complete standardized integration with a clear and transparent process.",
+    "btnApply": "Apply via Social",
+    "btnGuide": "Start Guide Now",
+    "imageAlt": "QRHub integration process illustration"
+  },
+  "stats": { "boost": "30%+", "label1": "Conversion Boost", "coverage": "100%", "label2": "QRIS Coverage", "steps": "3 Steps", "label3": "Fast Integration" },
+  "section2": {
+    "badge": "What We Offer",
+    "title": "One Integration, Full Coverage",
+    "desc": "QRHub provides one integration that meets 95% of your daily online transaction needs",
+    "card1": { "title": "Social Entry Application", "desc": "One-click start with popular social accounts", "features": ["One-click login", "Multi-platform support", "No repeat verification"] },
+    "card2": { "title": "Automated Online Guidance", "desc": "Fill once, the system progresses automatically", "features": ["Smart form guidance", "Real-time progress tracking", "Automatic status updates"] },
+    "card3": { "title": "Standard API Support", "desc": "(Optional) For deep system integration when needed", "features": ["RESTful API", "Full developer documentation", "Sandbox environment"] }
+  },
+  "section3": {
+    "progress": "Integration Progress",
+    "title": "Integration Process",
+    "subtitle": "Three simple steps to complete QRIS integration quickly—fully automated and transparent.",
+    "realTime": "Real-time update",
+    "estTime": "Estimated completion",
+    "only3Steps": "Only 3 steps",
+    "step1": { "title": "Apply via Social Entry", "desc": "Start the application quickly using your common social accounts" },
+    "step2": { "title": "Complete Basic Info Online", "desc": "Fill in the required information once; the system validates automatically" },
+    "step3": { "title": "Auto Progress & Track in Real Time", "desc": "Licensed institutions handle review and activation; the process is automated and efficient" }
+  },
+  "why": {
+    "badge": "Why Choose Us",
+    "title": "Simple. Smart. Efficient.",
+    "desc": "Our solution provides your business with the most convenient integration experience",
+    "card1": "One entry, one-click apply",
+    "card2": "Guided steps, easy operations",
+    "card3": "Automated progress, fewer back-and-forths",
+    "card4": "Optional API, flexible integration",
+    "dashboard": { "title": "Dashboard", "stat1": "PCI DSS", "stat2": "24/7", "volume": "Transaction volume" }
+  },
+  "faq": { "title": "Frequently Asked Questions", "subtitle": "If you have other questions, feel free to contact our support team", "contact": "Contact Us" },
+  "faqItems": [
+    { "q": "Is this a payment platform?", "a": "No. We only provide technical integration support and an online guided onboarding flow." },
+    { "q": "Who processes the actual transactions?", "a": "Transactions are executed by regulator-licensed payment service channels." },
+    { "q": "Can I use it without technical knowledge?", "a": "No technical knowledge is needed — the system guides you automatically." },
+    { "q": "Do I have to use the API?", "a": "No. The API is optional and only needed if you want deep integration into your own system." }
+  ],
+  "tagline": "One-Stop QRIS Technology Integration Platform",
+  "complianceTitle": "Compliance Disclaimer",
+  "compliance": "We provide technical integration and process support services, including an online entry point, automated guidance, and API support. Related services are provided by licensed institutions and comply with local regulations.",
+  "footer": { "privacy": "Privacy Policy", "terms": "Terms of Service", "contact": "Contact Us", "quickLinks": "Quick Links", "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved" },
   "privacy": {
     "title": "Privacy Policy",
     "lastUpdated": "Last Updated: April 16, 2026",
     "sections": [
       {
+        "id": 0,
+        "title": "Introduction",
+        "content": "This platform (QRHub) values the protection of user information and complies with applicable data protection laws and regulations."
+      },
+      {
         "id": 1,
-        "title": "1. Data We Collect",
-        "content": "We collect information you provide during registration, as well as transaction technical metadata required for system monitoring."
+        "title": "1. Information We Collect",
+        "content": "We may collect the following information:\n\n• Basic information (such as name and contact details)\n• Business information (such as merchant name and business details)\n• Usage information (such as access logs and operation behavior)"
       },
       {
         "id": 2,
-        "title": "2. Use of Information",
-        "content": "Your information will be used to: provide API technical infrastructure services, assist you in opening merchant accounts with licensed PJP institutions, and perform security analysis and fraud prevention."
+        "title": "2. How We Use Information",
+        "content": "The information we collect is used only for:\n\n• Providing integration and process guidance services\n• Improving the system experience\n• User support and issue handling"
       },
       {
         "id": 3,
-        "title": "3. Third-Party Data Sharing",
-        "content": "To implement QRIS services, we will share your registration data with licensed Payment Service Providers (PJP). Under legal requirements, we may also provide necessary information to Indonesian regulatory authorities (such as Kominfo or Bank Indonesia)."
+        "title": "3. Information Sharing",
+        "content": "We do not sell user information.\n\nInformation may be provided to third parties in the following cases:\n\n• Partner institutions required to complete the integration process\n• As required by laws and regulations"
       },
       {
         "id": 4,
         "title": "4. Data Security",
-        "content": "PT BINTANG LAUT INTEGRASI employs SSL encryption technology to protect the security of data transmission between your system and our platform."
+        "content": "We take reasonable measures to protect information security and prevent unauthorized access or disclosure."
       },
       {
         "id": 5,
         "title": "5. Your Rights",
-        "content": "According to the Indonesian Personal Data Protection Law (UU PDP), you have the right to access, update, or request the deletion of your personal data."
+        "content": "Users may at any time:\n\n• Check or update information\n• Request data deletion"
       },
       {
         "id": 6,
-        "title": "6. Contact Information",
-        "content": "If you have any questions, please contact us via:",
+        "title": "6. Nature of Service",
+        "content": "This platform provides only technical integration and process support services and does not involve any fund handling or execution services."
+      },
+      {
+        "id": 7,
+        "title": "7. Policy Updates",
+        "content": "We may update this policy and publish the latest version on this page."
+      },
+      {
+        "id": 8,
+        "title": "8. Contact",
+        "content": "If you have any questions, please contact us:",
         "details": {
           "email": "Email: bisnis@qrhub.one",
           "phone": "Phone: +62 85591541906",
-          "address": "Address: Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Postal Code: 14460"
+          "address": "Address: Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460"
         }
       }
     ]
@@ -50,11 +117,13 @@
     "title": "Terms of Service",
     "lastUpdated": "Last Updated: April 16, 2026",
     "sections": [
-      { "id": 1, "title": "1. Introduction", "content": "Welcome to QRHub. This platform is operated by PT BINTANG LAUT INTEGRASI. By accessing or using our services, you agree to be bound by these terms." },
-      { "id": 2, "title": "2. Definition of Services", "content": "QRHub is a technical infrastructure service provider (SaaS). We provide API integration, data monitoring dashboards, and merchant management systems designed to simplify the QRIS onboarding process. Please note that QRHub is NOT a Payment Service Provider (PJP)." },
-      { "id": 3, "title": "3. Limitation of Liability", "content": "All financial transactions and fund settlements are fully managed by our partner PJPs who hold official licenses from Bank Indonesia. PT BINTANG LAUT INTEGRASI is not responsible for transaction failures caused by banking system malfunctions or PJP policies." },
-      { "id": 4, "title": "4. User Obligations", "content": "Users must provide authentic business data for compliance review (KYB) by the PJP. Users are fully responsible for the security of the API Keys under their accounts." },
-      { "id": 5, "title": "5. Governing Law", "content": "These terms are governed by the laws of the Republic of Indonesia. Any disputes shall be submitted to the District Court of Bogor for adjudication." }
+      { "id": 0, "title": "Introduction", "content": "By using this platform, you agree to the following terms." },
+      { "id": 1, "title": "1. Service Scope", "content": "This platform provides technical integration and process support services to assist users in completing the integration process." },
+      { "id": 2, "title": "2. User Responsibilities", "content": "Users must ensure:\n\n• The information provided is true and accurate\n• Compliance with local laws and regulations" },
+      { "id": 3, "title": "3. Third-Party Services", "content": "Some features involve services provided by third-party institutions.\n\nSuch services are the responsibility of those institutions, and this platform does not participate in their execution." },
+      { "id": 4, "title": "4. Limitation of Liability (Key)", "content": "This platform is not liable for the following:\n\n• Actions of third-party services\n• User operations or information errors\n• Issues beyond the platform’s control" },
+      { "id": 5, "title": "5. Service Changes", "content": "We reserve the right to adjust or update service content." },
+      { "id": 6, "title": "6. Nature of Service", "content": "This platform provides only technical support and process services and does not provide fund handling or related services." }
     ]
   }
 }

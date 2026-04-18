@@ -1,35 +1,88 @@
 {
-  "address": "英菲尼迪办公室，Arcade 商务中心 6 楼 Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode 邮政编码：14460",
+  "address": "Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460",
   "contact_title": "联系我们",
   "email": "✉️ bisnis@qrhub.one",
   "phone": "📱 +62 0855 9154 1906",
   "quick_links": "快速链接",
   "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved",
+  "nav": { "features": "功能", "process": "流程", "why": "为什么选择我们", "faq": "常见问题" },
+  "ui": { "language": "语言", "languageOptions": { "id": "Bahasa Indonesia", "zh": "中文", "en": "English" }, "step": "步骤" },
+  "alerts": { "apply": "🚀 已跳转至社交入口申请页（演示）", "guide": "🎯 已启动在线引导流程（演示）" },
+  "contact": { "email": "bisnis@qrhub.one", "phone": "+62 0855 9154 1906" },
+  "hero": {
+    "title": "一个入口，统一接入",
+    "subtitle": "通过在线入口与自动引导流程，帮助完成标准化接入，过程清晰透明",
+    "btnApply": "通过社交入口申请",
+    "btnGuide": "立即开始引导",
+    "imageAlt": "QRHub 平台接入流程示意图"
+  },
+  "stats": { "boost": "30%+", "label1": "转化率提升", "coverage": "100%", "label2": "QRIS 覆盖", "steps": "3步", "label3": "快速接入" },
+  "section2": {
+    "badge": "我们提供什么",
+    "title": "一次集成，全面覆盖",
+    "desc": "QRHub 提供一次集成，满足您 95% 的日常在线交易需求",
+    "card1": { "title": "社交入口申请", "desc": "常用社交账号一键启动", "features": ["一键登录", "支持多种社交平台", "无需重复验证"] },
+    "card2": { "title": "自动在线引导", "desc": "一步填写，系统自动推进", "features": ["智能表单引导", "实时进度追踪", "自动状态更新"] },
+    "card3": { "title": "标准 API 支持", "desc": "(可选) 需要时用于系统深度集成", "features": ["RESTful API", "完整开发文档", "沙箱测试环境"] }
+  },
+  "section3": {
+    "progress": "接入进度",
+    "title": "接入流程",
+    "subtitle": "简单三步，快速完成 QRIS 接入，全程自动化，省时省力",
+    "realTime": "实时更新",
+    "estTime": "预计完成",
+    "only3Steps": "只需 3 步",
+    "step1": { "title": "通过社交入口申请", "desc": "使用常用社交账号快速启动申请流程" },
+    "step2": { "title": "在线一步填写基本信息", "desc": "简单填写必要信息，系统自动验证" },
+    "step3": { "title": "系统自动推进对接并实时查看进度", "desc": "持牌机构负责审核激活，全程自动化，省时省力" }
+  },
+  "why": {
+    "badge": "为什么选择我们",
+    "title": "简单、智能、高效",
+    "desc": "我们的解决方案为您的业务提供最便捷的集成体验",
+    "card1": "社交入口，一键申请",
+    "card2": "一步引导，操作简单",
+    "card3": "自动推进，无需反复沟通",
+    "card4": "API 可选，灵活方便",
+    "dashboard": { "title": "控制面板", "stat1": "PCI DSS", "stat2": "全天候", "volume": "交易量" }
+  },
+  "faq": { "title": "您可能想问的问题", "subtitle": "如有其他疑问，欢迎随时联系支持团队", "contact": "联系我们" },
+  "faqItems": [
+    { "q": "这是支付平台吗？", "a": "不是，我们只提供技术集成支持和在线引导服务。" },
+    { "q": "实际交易由谁处理？", "a": "由获得监管许可的支付服务通道负责执行。" },
+    { "q": "不懂技术也能用吗？", "a": "不需要，系统会自动引导" },
+    { "q": "一定要用 API 吗？", "a": "不需要，只有需要深度集成到自家系统时，才可选使用 API。" }
+  ],
+  "tagline": "一站式 QRIS 技术集成平台",
+  "complianceTitle": "合规声明",
+  "compliance": "我们提供技术接入与流程支持服务，包括在线入口、自动引导及接口支持，相关服务由持牌机构提供，并遵守当地法规。",
+  "footer": { "privacy": "隐私政策", "terms": "服务条款", "contact": "联系我们", "quickLinks": "快速链接", "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • 保留所有权利" },
   "privacy": {
     "title": "隐私政策",
     "lastUpdated": "最后更新日期：2026年4月16日",
     "sections": [
-      { "id": 1, "title": "1. 我们收集的数据", "content": "我们收集您在注册时提供的信息，以及为了系统监控所需的交易技术元数据。" },
-      { "id": 2, "title": "2. 信息用途", "content": "您的信息将用于：提供 API 技术基础设施服务，协助您在持牌 PJP 机构开设商户账户，进行安全分析和预防欺诈。" },
-      { "id": 3, "title": "3. 第三方数据共享", "content": "为了实现 QRIS 服务，我们将与持牌支付（PJP）共享您的注册数据。在法律要求下，我们也可能向印尼监管机构（如 Kominfo 或印尼央行）提供必要信息。" },
-      { "id": 4, "title": "4. 数据安全", "content": "PT BINTANG LAUT INTEGRASI 采用 SSL 加密技术，保护您的系统与我们平台之间的数据传输安全。" },
-      { "id": 5, "title": "5. 您的权利", "content": "根据印尼《个人数据保护法》（UU PDP），您有权访问、更新或要求删除您的个人数据。" },
-      { "id": 6, "title": "6. 联系方式", "content": "如有疑问，请通过以下方式联系我们：",
-        "email": "电子邮件：bisnis@qrhub.one",
-        "phone": "电话：+62 85591541906",
-        "address": "地址：Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460"
-      }
+      { "id": 0, "title": "引言", "content": "本平台（QRHub）重视用户信息保护，并遵循适用的数据保护法律法规。" },
+      { "id": 1, "title": "1. 我们收集的信息", "content": "我们可能收集以下信息：\n\n• 基本信息（如姓名、联系方式）\n• 企业信息（如商户名称、业务信息）\n• 使用信息（如访问记录、操作行为）" },
+      { "id": 2, "title": "2. 信息使用方式", "content": "我们收集的信息仅用于：\n\n• 提供接入与流程引导服务\n• 优化系统体验\n• 用户支持与问题处理" },
+      { "id": 3, "title": "3. 信息共享说明", "content": "我们不会出售用户信息。\n\n在以下情况下，信息可能被提供给第三方：\n\n• 为完成接入流程所需的合作机构\n• 根据法律法规要求" },
+      { "id": 4, "title": "4. 数据安全", "content": "我们采取合理措施保护信息安全，防止未经授权访问或泄露。" },
+      { "id": 5, "title": "5. 用户权利", "content": "用户可随时：\n\n• 查询或更新信息\n• 请求删除数据" },
+      { "id": 6, "title": "6. 服务性质说明", "content": "本平台仅提供技术接入与流程支持服务，不涉及任何资金处理或执行服务。" },
+      { "id": 7, "title": "7. 政策更新", "content": "我们可能对本政策进行更新，并在页面发布最新版本。" },
+      { "id": 8, "title": "8. 联系方式", "content": "如有疑问，请联系我们：", "details": { "email": "电子邮件：bisnis@qrhub.one", "phone": "电话：+62 85591541906", "address": "地址：Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460" } }
     ]
   },
   "terms": {
     "title": "服务条款",
     "lastUpdated": "最后更新日期：2026年4月16日",
     "sections": [
-      { "id": 1, "title": "1. 引言", "content": "欢迎使用 QRHub。本平台由 PT BINTANG LAUT INTEGRASI 运营。一旦您访问或使用我们的服务，即表示您同意接受本条款的约束。" },
-      { "id": 2, "title": "2. 服务定义", "content": "QRHub 是一个技术基础设施服务商（SaaS）。我们提供 API 集成、数据监控仪表盘 and 商户管理系统，旨在简化 QRIS 的接入流程。QRHub 并非支付服务提供商（PJP）。" },
-      { "id": 3, "title": "3. 责任限制", "content": "所有金融交易和资金结算均由我们具有印尼央行（Bank Indonesia）正式执照的 PJP 伙伴完全负责。PT BINTANG LAUT INTEGRASI 不承担因银行系统故障或 PJP 政策导致的交易失败责任。" },
-      { "id": 4, "title": "4. 用户义务", "content": "用户必须提供真实的业务数据，以便 PJP 进行合规审核（KYB）。用户需对其账户下的 API Key 安全负全部责任。" },
-      { "id": 5, "title": "5. 适用法律", "content": "本条款受印度尼西亚共和国法律管辖。任何争议将提交至茂物（Bogor）地方法院裁决。" }
+      { "id": 0, "title": "引言", "content": "使用本平台即表示您同意以下条款。" },
+      { "id": 1, "title": "1. 服务内容", "content": "本平台提供技术接入与流程支持服务，用于协助用户完成接入流程。" },
+      { "id": 2, "title": "2. 用户责任", "content": "用户需确保：\n\n• 提供信息真实准确\n• 遵守当地法律法规" },
+      { "id": 3, "title": "3. 第三方服务", "content": "部分功能涉及第三方机构提供服务。\n\n相关服务由该机构负责，本平台不参与执行。" },
+      { "id": 4, "title": "4. 责任限制（关键）", "content": "本平台不对以下情况承担责任：\n\n• 第三方服务行为\n• 用户操作或信息错误\n• 非平台控制范围内的问题" },
+      { "id": 5, "title": "5. 服务变更", "content": "我们有权调整或更新服务内容。" },
+      { "id": 6, "title": "6. 服务性质说明", "content": "本平台仅提供技术支持与流程服务，不提供资金处理或相关服务。" }
     ]
   }
 }
