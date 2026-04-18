@@ -121,7 +121,7 @@
       { "id": 1, "title": "1. Service Scope", "content": "This platform provides technical integration and process support services to assist users in completing the integration process." },
       { "id": 2, "title": "2. User Responsibilities", "content": "Users must ensure:\n\n• The information provided is true and accurate\n• Compliance with local laws and regulations" },
       { "id": 3, "title": "3. Third-Party Services", "content": "Some features involve services provided by third-party institutions.\n\nSuch services are the responsibility of those institutions, and this platform does not participate in their execution." },
-      { "id": 4, "title": "4. Limitation of Liability (Key)", "content": "This platform is not liable for the following:\n\n• Actions of third-party services\n• User operations or information errors\n• Issues beyond the platform’s control" },
+      { "id": 4, "title": "4. Limitation of Liability ", "content": "This platform is not liable for the following:\n\n• Actions of third-party services\n• User operations or information errors\n• Issues beyond the platform’s control" },
       { "id": 5, "title": "5. Service Changes", "content": "We reserve the right to adjust or update service content." },
       { "id": 6, "title": "6. Nature of Service", "content": "This platform provides only technical support and process services and does not provide fund handling or related services." }
     ]
