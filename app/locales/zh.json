@@ -1,0 +1,35 @@
+{
+  "address": "英菲尼迪办公室，Arcade 商务中心 6 楼 Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode 邮政编码：14460",
+  "contact_title": "联系我们",
+  "email": "✉️ bisnis@qrhub.one",
+  "phone": "📱 +62 0855 9154 1906",
+  "quick_links": "快速链接",
+  "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved",
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新日期：2026年4月16日",
+    "sections": [
+      { "id": 1, "title": "1. 我们收集的数据", "content": "我们收集您在注册时提供的信息，以及为了系统监控所需的交易技术元数据。" },
+      { "id": 2, "title": "2. 信息用途", "content": "您的信息将用于：提供 API 技术基础设施服务，协助您在持牌 PJP 机构开设商户账户，进行安全分析和预防欺诈。" },
+      { "id": 3, "title": "3. 第三方数据共享", "content": "为了实现 QRIS 服务，我们将与持牌支付（PJP）共享您的注册数据。在法律要求下，我们也可能向印尼监管机构（如 Kominfo 或印尼央行）提供必要信息。" },
+      { "id": 4, "title": "4. 数据安全", "content": "PT BINTANG LAUT INTEGRASI 采用 SSL 加密技术，保护您的系统与我们平台之间的数据传输安全。" },
+      { "id": 5, "title": "5. 您的权利", "content": "根据印尼《个人数据保护法》（UU PDP），您有权访问、更新或要求删除您的个人数据。" },
+      { "id": 6, "title": "6. 联系方式", "content": "如有疑问，请通过以下方式联系我们：",
+        "email": "电子邮件：bisnis@qrhub.one",
+        "phone": "电话：+62 85591541906",
+        "address": "地址：Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新日期：2026年4月16日",
+    "sections": [
+      { "id": 1, "title": "1. 引言", "content": "欢迎使用 QRHub。本平台由 PT BINTANG LAUT INTEGRASI 运营。一旦您访问或使用我们的服务，即表示您同意接受本条款的约束。" },
+      { "id": 2, "title": "2. 服务定义", "content": "QRHub 是一个技术基础设施服务商（SaaS）。我们提供 API 集成、数据监控仪表盘 and 商户管理系统，旨在简化 QRIS 的接入流程。QRHub 并非支付服务提供商（PJP）。" },
+      { "id": 3, "title": "3. 责任限制", "content": "所有金融交易和资金结算均由我们具有印尼央行（Bank Indonesia）正式执照的 PJP 伙伴完全负责。PT BINTANG LAUT INTEGRASI 不承担因银行系统故障或 PJP 政策导致的交易失败责任。" },
+      { "id": 4, "title": "4. 用户义务", "content": "用户必须提供真实的业务数据，以便 PJP 进行合规审核（KYB）。用户需对其账户下的 API Key 安全负全部责任。" },
+      { "id": 5, "title": "5. 适用法律", "content": "本条款受印度尼西亚共和国法律管辖。任何争议将提交至茂物（Bogor）地方法院裁决。" }
+    ]
+  }
+}

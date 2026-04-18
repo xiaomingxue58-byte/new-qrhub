@@ -1,0 +1,60 @@
+{
+  "address": "Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460",
+  "contact_title": "Contact Us",
+  "email": "✉️ bisnis@qrhub.one",
+  "phone": "📱 +62 0855 9154 1906",
+  "quick_links": "Quick Links",
+  "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved",
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: April 16, 2026",
+    "sections": [
+      {
+        "id": 1,
+        "title": "1. Data We Collect",
+        "content": "We collect information you provide during registration, as well as transaction technical metadata required for system monitoring."
+      },
+      {
+        "id": 2,
+        "title": "2. Use of Information",
+        "content": "Your information will be used to: provide API technical infrastructure services, assist you in opening merchant accounts with licensed PJP institutions, and perform security analysis and fraud prevention."
+      },
+      {
+        "id": 3,
+        "title": "3. Third-Party Data Sharing",
+        "content": "To implement QRIS services, we will share your registration data with licensed Payment Service Providers (PJP). Under legal requirements, we may also provide necessary information to Indonesian regulatory authorities (such as Kominfo or Bank Indonesia)."
+      },
+      {
+        "id": 4,
+        "title": "4. Data Security",
+        "content": "PT BINTANG LAUT INTEGRASI employs SSL encryption technology to protect the security of data transmission between your system and our platform."
+      },
+      {
+        "id": 5,
+        "title": "5. Your Rights",
+        "content": "According to the Indonesian Personal Data Protection Law (UU PDP), you have the right to access, update, or request the deletion of your personal data."
+      },
+      {
+        "id": 6,
+        "title": "6. Contact Information",
+        "content": "If you have any questions, please contact us via:",
+        "details": {
+          "email": "Email: bisnis@qrhub.one",
+          "phone": "Phone: +62 85591541906",
+          "address": "Address: Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Postal Code: 14460"
+        }
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: April 16, 2026",
+    "sections": [
+      { "id": 1, "title": "1. Introduction", "content": "Welcome to QRHub. This platform is operated by PT BINTANG LAUT INTEGRASI. By accessing or using our services, you agree to be bound by these terms." },
+      { "id": 2, "title": "2. Definition of Services", "content": "QRHub is a technical infrastructure service provider (SaaS). We provide API integration, data monitoring dashboards, and merchant management systems designed to simplify the QRIS onboarding process. Please note that QRHub is NOT a Payment Service Provider (PJP)." },
+      { "id": 3, "title": "3. Limitation of Liability", "content": "All financial transactions and fund settlements are fully managed by our partner PJPs who hold official licenses from Bank Indonesia. PT BINTANG LAUT INTEGRASI is not responsible for transaction failures caused by banking system malfunctions or PJP policies." },
+      { "id": 4, "title": "4. User Obligations", "content": "Users must provide authentic business data for compliance review (KYB) by the PJP. Users are fully responsible for the security of the API Keys under their accounts." },
+      { "id": 5, "title": "5. Governing Law", "content": "These terms are governed by the laws of the Republic of Indonesia. Any disputes shall be submitted to the District Court of Bogor for adjudication." }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "address": "Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460",
+  "contact_title": "Hubungi Kami",
+  "email": "✉️ bisnis@qrhub.one",
+  "phone": "📱 +62 0855 9154 1906",
+  "quick_links": "Tautan Cepat",
+  "copyright": "© 2026 PT BINTANG LAUT INTEGRASI • All Rights Reserved",
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir Diperbarui: 16 April 2026",
+    "sections": [
+      { "id": 1, "title": "1. Data yang Kami Kumpulkan", "content": "Kami mengumpulkan informasi yang Anda berikan saat pendaftaran, serta metadata teknis transaksi untuk pemantauan sistem." },
+      { "id": 2, "title": "2. Penggunaan Informasi", "content": "Informasi Anda digunakan untuk: menyediakan layanan infrastruktur teknologi API, membantu pembukaan akun merchant di PJP berlisensi, serta analisis keamanan dan pencegahan penipuan." },
+      { "id": 3, "title": "3. Berbagi Data dengan Pihak Ketiga", "content": "Untuk menjalankan layanan QRIS, kami akan membagikan data pendaftaran Anda dengan PJP berlisensi. Jika diwajibkan hukum, kami juga dapat memberikan informasi kepada regulator Indonesia (seperti Kominfo atau Bank Indonesia)." },
+      { "id": 4, "title": "4. Keamanan Data", "content": "PT BINTANG LAUT INTEGRASI menggunakan teknologi enkripsi SSL untuk melindungi transmisi data antara sistem Anda dan platform kami." },
+      { "id": 5, "title": "5. Hak-Hak Anda", "content": "Berdasarkan UU Pelindungan Data Pribadi (UU PDP) Indonesia, Anda berhak mengakses, memperbarui, atau meminta penghapusan data pribadi Anda." },
+      { "id": 6, "title": "6. Informasi Kontak", "content": "Jika ada pertanyaan, silakan hubungi kami melalui:", 
+        "email": "Email: bisnis@qrhub.one", 
+        "phone": "Telepon: +62 85591541906", 
+        "address": "Alamat: Infiniti Office, Arcade Business Center 6th Floor Unit 6-03, Jalan Pantai Indah Utara 2 PIK Penjaringan, Desa/Kelurahan Kapuk Muara, Kec. Penjaringan, Kota Adm. Jakarta Utara, Provinsi DKI Jakarta, Kode Pos: 14460" 
+      }
+    ]
+  },
+  "terms": {
+    "title": "Syarat dan Ketentuan",
+    "lastUpdated": "Terakhir Diperbarui: 16 April 2026",
+    "sections": [
+      { "id": 1, "title": "1. Pendahuluan", "content": "Selamat datang di QRHub. Platform ini dioperasikan oleh PT BINTANG LAUT INTEGRASI. Dengan mengakses atau menggunakan layanan kami, Anda setuju untuk terikat oleh ketentuan ini." },
+      { "id": 2, "title": "2. Definisi Layanan", "content": "QRHub adalah penyedia layanan infrastruktur teknologi (SaaS). Kami menyediakan integrasi API, dashboard pemantauan data, dan sistem manajemen merchant yang dirancang untuk menyederhanakan proses onboarding QRIS. Harap dicatat bahwa QRHub BUKANlah Penyelenggara Jasa Pembayaran (PJP)." },
+      { "id": 3, "title": "3. Batasan Tanggung Jawab", "content": "Semua transaksi keuangan dan penyelesaian dana sepenuhnya dikelola oleh mitra PJP kami yang memegang lisensi resmi dari Bank Indonesia. PT BINTANG LAUT INTEGRASI tidak bertanggung jawab atas kegagalan transaksi yang disebabkan oleh kerusakan sistem perbankan atau kebijakan PJP." },
+      { "id": 4, "title": "4. Kewajiban Pengguna", "content": "Pengguna harus memberikan data bisnis yang autentik untuk peninjauan kepatuhan (KYB) oleh PJP. Pengguna bertanggung jawab penuh atas keamanan API Key di bawah akun mereka." },
+      { "id": 5, "title": "5. Hukum yang Mengatur", "content": "Ketentuan ini diatur oleh hukum Republik Indonesia. Setiap perselisihan akan diajukan ke Pengadilan Negeri Bogor untuk diputuskan." }
+    ]
+  }
+}
