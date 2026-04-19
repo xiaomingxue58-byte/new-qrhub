@@ -10,7 +10,7 @@
   "alerts": { "apply": "🚀 Redirected to social entry application page (demo)", "guide": "🎯 Started the guided onboarding flow (demo)" },
   "contact": { "email": "bisnis@qrhub.one", "phone": "+62 0855 9154 1906" },
   "hero": {
-    "title": "One Entry, Unified Integration",
+    "title": "One Entry  Unified Integration",
     "subtitle": "Through an online entry point and an automated guided flow, we help you complete standardized integration with a clear and transparent process.",
     "btnApply": "Apply via Social",
     "btnGuide": "Start Guide Now",
