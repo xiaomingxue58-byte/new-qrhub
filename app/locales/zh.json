@@ -10,7 +10,7 @@
   "alerts": { "apply": "🚀 已跳转至社交入口申请页（演示）", "guide": "🎯 已启动在线引导流程（演示）" },
   "contact": { "email": "bisnis@qrhub.one", "phone": "+62 0855 9154 1906" },
   "hero": {
-    "title": "一个入口，统一接入",
+    "title": "一个入口 统一接入",
     "subtitle": "通过在线入口与自动引导流程，帮助完成标准化接入，过程清晰透明",
     "btnApply": "通过社交入口申请",
     "btnGuide": "立即开始引导",
